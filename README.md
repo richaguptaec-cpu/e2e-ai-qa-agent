@@ -241,8 +241,7 @@ Potential future enhancements, depending on project priorities:
 
 ### 4. Automation code generation
 
-<img width="646" height="587" alt="image" src="https://github.com/user-attachments/assets/51531a1a-2791-4a70-b5bd-f638154fcf2e" />
-
+<img width="448" height="595" alt="image" src="https://github.com/user-attachments/assets/4498d610-4cd9-4436-bc51-bde1256e1294" />
 
 ```markdown
 
