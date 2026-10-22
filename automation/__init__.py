@@ -1,0 +1,1 @@
+# Automation package for Playwright test generation and execution.
