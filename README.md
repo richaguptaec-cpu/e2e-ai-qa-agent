@@ -1,4 +1,4 @@
-# AI QA Agent — End-to-End Quality Engineering Studio 🧪🤖
+# Intelligent QA Agent: Test Design to Automation by Richa Gupta 🧪🤖
 
 An AI-assisted quality engineering workspace that turns user stories and acceptance criteria into structured, reviewable test suites—and can help translate approved scenarios into Playwright/Pytest automation. Built with Python and Streamlit, the project combines AI-assisted test design with deterministic validation so generated test cases are easier to inspect, score, export, and refine.
 
